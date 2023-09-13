@@ -1,4 +1,4 @@
-# Upload.IA 🤖
+# Upload.AI 🤖
 
 ## About the Project
 
@@ -29,7 +29,7 @@ This project is being developed using the following technologies:
 
 1. Clone the repository: 
 
-```git clone https://github.com/joaopelisson/ReactJS_Upload.IA```
+```git clone https://github.com/joaopelisson/ReactJS_Upload.AI```
 
 
 2. Install the necessary packages:
