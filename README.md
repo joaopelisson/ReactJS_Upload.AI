@@ -4,6 +4,8 @@
 
 Upload.AI is an innovative project under development during the <NLW/> AI trail organized by @rocketseat. This project aims to integrate cutting-edge technologies to create a robust and high-quality solution. Stay tuned for updates!
 
+⚠ [Attention - you need the backend of this app, you can get it by clicking here!](https://github.com/joaopelisson/NodeJS_Upload.AI)
+
 ## Technologies Used 🚀
 
 This project is being developed using the following technologies:
